@@ -6,5 +6,6 @@ ARRAY[2]="dos"
 LENGTH=${#ARRAY[*]}
 
 for (( i=0; i<LENGTH; i++ )); do
-    echo $i=${ARRAY[i]}
+    VALOR=${ARRAY[i]}
+    echo $i=$VALOR
 done

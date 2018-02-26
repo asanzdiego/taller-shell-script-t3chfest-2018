@@ -2,4 +2,5 @@
 
 # script que saca un "Hola " + parámetros + "!" por pantalla
 
-echo "Hola $@!"
+TODOS_LOS_PARAMETROS=$@
+echo "Hola $TODOS_LOS_PARAMETROS!"
