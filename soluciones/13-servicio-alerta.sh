@@ -74,5 +74,5 @@ case $1 in
     status)
         do_status ;;
     *)
-        echo "Parámetro '$1' incorrecto." ;;
+        echo "Parámetro '$1' incorrecto." ; ayuda ;;
 esac

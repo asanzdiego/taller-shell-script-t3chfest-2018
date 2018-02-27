@@ -1,1 +1,1 @@
-awk -f 11-notas.awk 12-notas.csv
+awk -f 11-notas.awk 10-notas.csv
