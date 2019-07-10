@@ -16,8 +16,8 @@ En este taller quiero enseñar a programar scripts de Bash desde cero e ir subie
 
 - [PDF - Enunciados ejercicios](https://github.com/asanzdiego/taller-shell-script-t3chfest-2018/raw/master/taller-shell-script-enunciados.pdf)
 
-- [PDF - Solución ejercicios](https://github.com/asanzdiego/taller-shell-script-t3chfest-2018/raw/master/taller-shell-script-soluciones.pdf)
-
 - [Código - Enunciados ejercicios](https://github.com/asanzdiego/taller-shell-script-t3chfest-2018/tree/master/enunciados)
+
+- [PDF - Solución ejercicios](https://github.com/asanzdiego/taller-shell-script-t3chfest-2018/raw/master/taller-shell-script-soluciones.pdf)
 
 - [Código - Solución ejercicios](https://github.com/asanzdiego/taller-shell-script-t3chfest-2018/tree/master/soluciones)
